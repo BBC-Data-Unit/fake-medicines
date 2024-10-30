@@ -71,9 +71,9 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 
 - 
 
-The story was one of Apple News's top stories of the day and featured online and as a bulletin piece across BBC local radio throughout 1 March 2023.
+The report was among the most-read BBC online reports of the day and featured across BBC local radio throughout 1 March 2023.
 
-BBC News's Midlands correspondent Navtej Johal delivered TV packages for BBC Breakfast and BBC News at 1pm, produced by BBC Shared Data Unit senior journalist Alex Homer, which were also used by the News Channel. Navtej Johal also carried out a two-way interview to discuss the story on the Today programme on BBC Radio 4, the report was used throughout breakfast on Radio 5Live with our interviewees as live guests and was used across national news summaries and by [BBC Sounds](https://www.bbc.co.uk/sounds/play/p0f5zbln](https://www.bbc.co.uk/sounds/play/p0k0thzk)). 
+BBC News's Midlands correspondent Navtej Johal delivered TV packages for BBC Breakfast, BBC News at 1pm and Wales Today, produced by BBC Shared Data Unit senior journalist Alex Homer, which were also used by the News Channel throughout the day with live guests discussing the report. Navtej Johal also carried out a two-way interview to discuss the story on the Today programme on BBC Radio 4 and on BBC Radio Wales. The report was used throughout breakfast on Radio 5Live with our interviewees as live guests and was used across national news summaries and by [BBC Sounds](https://www.bbc.co.uk/sounds/play/p0f5zbln](https://www.bbc.co.uk/sounds/play/p0k0thzk)) on the BBC News UK [TikTok](https://www.tiktok.com/@bbcnews/video/7431271996463402273?lang=en) and [Instagram](https://www.instagram.com/p/DBt6rIvqUPu/?hl=en) accounts.
 
 
 
