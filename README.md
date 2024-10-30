@@ -73,11 +73,10 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 
 The report was among the most-read BBC online reports of the day and featured across BBC local radio throughout 1 March 2023.
 
-BBC News's Midlands correspondent Navtej Johal delivered TV packages for BBC Breakfast, BBC News at 1pm and Wales Today, produced by BBC Shared Data Unit senior journalist Alex Homer, which were also used by the News Channel throughout the day with live guests discussing the report. Navtej Johal also carried out a two-way interview to discuss the story on the Today programme on BBC Radio 4 and on BBC Radio Wales. The report was used throughout breakfast on Radio 5Live with our interviewees as live guests and was used across national news summaries and by [BBC Sounds](https://www.bbc.co.uk/sounds/play/p0f5zbln](https://www.bbc.co.uk/sounds/play/p0k0thzk)) on the BBC News UK [TikTok](https://www.tiktok.com/@bbcnews/video/7431271996463402273?lang=en) and [Instagram](https://www.instagram.com/p/DBt6rIvqUPu/?hl=en) accounts.
+BBC News's Midlands correspondent Navtej Johal delivered TV packages for BBC Breakfast, BBC News at 1pm and Wales Today, produced by BBC Shared Data Unit senior journalist Alex Homer, which were also used by the News Channel throughout the day with live guests discussing the report. Navtej Johal also carried out a two-way interview to discuss the story on the Today programme on BBC Radio 4 and on BBC Radio Wales. The report was used throughout breakfast on Radio 5Live with our interviewees as live guests and was used across national news summaries including BBC Radio 1, 2 and 6 Music and on the news playlist by [BBC Sounds](https://www.bbc.co.uk/sounds/play/p0f5zbln](https://www.bbc.co.uk/sounds/play/p0k0thzk)) on the BBC News UK [TikTok](https://www.tiktok.com/@bbcnews/video/7431271996463402273?lang=en) and [Instagram](https://www.instagram.com/p/DBt6rIvqUPu/?hl=en) accounts.
 
-
-
-Audio clips from our interviews were also carried in bulletins by .....
+The report including audio clips from our interviews was also carried in bulletins by BBC Radio Scotland, BBC Radio Cymru,
+BBC Radio Ulster, BBC Radio Foyle and local radio stations covering London, Merseyside, Newcastle, Essex, Sheffield, Sussex, Gloucestershire, Nottingham, Coventry & Warwickshire, Surrey, Shropshire, Berskhire, Northampton, Kent
 
 
 ## Other usage
