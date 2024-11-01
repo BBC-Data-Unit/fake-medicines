@@ -69,7 +69,7 @@ Statements
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
-- 
+- The Northern Echo: [Fake medicines filled with deadly drugs stronger than heroin found in North East](https://www.thenorthernecho.co.uk/news/24686293.fake-medicines-filled-deadly-drugs-found-north-east/) *30 October 2024*
 
 The report was among the most-read BBC online reports of the day and featured across BBC local radio throughout 1 March 2023.
 
