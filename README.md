@@ -84,3 +84,4 @@ The report and an audio clip sequence from our interviewees was broadcasted by B
 - Daily Mail: [Deadly Frankenstein opioids from China hundreds of time stronger than regular painkillers are flooding UK](https://www.dailymail.co.uk/health/article-14016067/Frankenstein-opioids-China-stronger-painkillers-UK.html) *29 October 2024*
 - The Independent: [Lethal super-strength opioids found in 130 samples of fake prescription medicines](https://www.independent.co.uk/news/uk/crime/opioid-prescription-medication-anxiety-xanax-nitazenes-b2637412.html) *29 October 2024*
 - The Mirror: ['My son was killed by black market anxiety pills - change is needed to stop more dying'](https://www.mirror.co.uk/news/uk-news/my-son-killed-black-market-33996372) *29 October 2024*
+- VICE: [Deadly Opioid Nitazene Discovered in Fake Prescription Medications](https://www.vice.com/en/article/deadly-opioid-nitazene-discovered-in-fake-prescription-medications/) *30 October 2024*
