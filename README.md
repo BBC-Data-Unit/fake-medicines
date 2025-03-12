@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8bef/live/9dc756c0-9151-11ef-b9b6-5d881936e68f.jpg.webp)
 
-In October, we worked with BBC News's Midlands & South Bureau to [report](https://www.bbc.co.uk/news/articles/cx2520kvl1wo) super-strength drugs linked to hundreds of deaths had been found in samples of fake medicines bought across the UK.
+In October 2024, we worked with BBC News's Midlands & South Bureau to [report](https://www.bbc.co.uk/news/articles/cx2520kvl1wo) super-strength drugs linked to hundreds of deaths had been found in samples of fake medicines bought across the UK.
 
 We had found more than 100 examples of people trying to buy prescription medicines such as diazepam - commonly used to treat anxiety, muscle spasms and seizures - and instead receiving products containing nitazenes.
 
@@ -45,7 +45,7 @@ NB: As the service said itself, WEDINOS data were not a definitive and exhaustiv
 - A list of the known variations of these highly-potent new drugs, and an estimation of how strong some variants were in comparison to heroin - eg N-Pyrrolidino-etonitazene was thought to be 500 times stronger than heroin.
 
 
-# Get the data
+# Access the data
 
 We produced [this story pack](https://docs.google.com/document/d/1Phx7wkbLUcAFmX02fuHLhKiM8c5n_4XY6GQERsYMJsQ/edit?tab=t.0) and [this dataset](https://docs.google.com/spreadsheets/d/165Nb11JWkOQP9moSF3ivhOPc9iHVvLsKRshkpfu6Puc/edit?usp=sharing).
 
