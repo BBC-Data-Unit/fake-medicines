@@ -91,3 +91,4 @@ The report and an audio clip sequence from our interviewees was broadcasted by B
 - The Scottish Sun [FAKE PILLS Urgent warning after drug stronger than heroin found in ‘medicine’ in Glasgow](https://www.thescottishsun.co.uk/news/13797493/drug-heroin-glasgow-fentany-warning/) *2 November 2024*
 - The Sun: [‘RUSSIAN ROULETTE’ Our brilliant boy, 19, died in seconds after unknowingly taking ‘Frankenstein’ drug 50 times stronger than fentanyl](https://www.thesun.co.uk/news/31695225/nitazenes-frankenstein-drug-death-fentanyl-epidemic/) *15 November 2024*
 - VICE: [Deadly Opioid Nitazene Discovered in Fake Prescription Medications](https://www.vice.com/en/article/deadly-opioid-nitazene-discovered-in-fake-prescription-medications/) *30 October 2024*
+- Wall Street Journal: [The Drug You've Never Heard of Wreaking Havoc Across Europe](https://pocketcasts.com/podcasts/472f9970-773b-0137-f268-1d245fc5f9cf/7353cfd6-9637-4a01-ad55-fa40a49bc87f) *12 August 2025*
